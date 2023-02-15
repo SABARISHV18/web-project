@@ -1,0 +1,97 @@
+header{
+    background-color: black;
+}
+body{
+    background-image: url("wesson-wang-y0_vFxOHayg-unsplash.jpg");
+    background-size: 100%;
+}
+.container
+{
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    padding: 10px 0px 0px 0px;
+    align-items: center;
+}
+a{
+    color: white;
+    text-align: none;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 10px;
+}
+.join a
+{
+    color: black;
+}
+.join{
+    
+    background-color: white;
+    padding: 10px;
+    border-radius: 25px;
+}
+.content
+{
+    margin-top: 250px;
+    text-align: center;
+    color:white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:x-large
+
+}
+.hello
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+span
+{
+    color: #ff7200;
+}
+.course
+{
+    background-color:#ff7200;
+    padding: 20px;
+    width: 200px;
+    text-align: center;
+    border-radius: 25px;
+    margin-left: 600px;
+}
+.what
+{
+    margin-top:200px;
+}
+.c2
+{
+    display:flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    padding: 10px 0px 0px 0px;
+    align-items: center;
+    color:black;
+    text-align: center;
+    font-size:x-large;
+}
+.free
+{
+    color:white;
+    background-color:#ff7200;
+    border-radius: 25px;
+}
+.g{
+    padding: 0px 10px 10px 10px;
+    margin-left: 200px;
+    margin-top: 200px;
+    border-radius: 25px;
+    background-color:white;
+}
+.signup
+{
+    color:white;
+    background-color:blue;
+    border-radius: 25px;
+}
+.small
+{
+    font-style: italic;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
